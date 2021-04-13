@@ -1,7 +1,4 @@
 
-import {saludar} from './js/componentes';
+// imports for JS modules
+
 import './styles.css';
-
-const nombre = 'Juancho';
-saludar(nombre);
-
